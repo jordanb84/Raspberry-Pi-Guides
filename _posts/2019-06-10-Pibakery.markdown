@@ -3,8 +3,42 @@ layout: post
 title:  "Pibakery"
 ---
 
-# Still editing this
+**If you want an easy way to setup a pi, use this!!**
 
-**Pibakery is usefull to help you setup Raspbian SD cards for PI**
+**Pibakery is useful to help you setup Raspbian SD cards for PI**
 
 https://www.pibakery.org/
+
+
+Step 1!: 
+![alt text][DeleteVolumes]
+
+[DeleteVolumes]: https://cdn.discordapp.com/attachments/208628299012898816/580754452399652897/unknown.png
+Step  2!:
+
+**Download pibakery from  link above. If you use v1 it includes  raspbian. If you use V2 you need to download a Raspbian image  from raspberrypi.org**
+
+Step 3!: 
+![alt text][Exampleusagepizero]
+
+[Exampleusagepizero]: https://cdn.discordapp.com/attachments/358116916012908544/533977944331124737/Screen_Shot_2019-01-13_at_3.58.37_AM.png
+
+**These 'recipes' you make (drag nd drop blocks) can be exported so you can use it again and again for multiple sd cards or if you close tool**
+
+Corresponding Recipe for Pi bakery Version 1. 
+
+This recipe Above is for an example PizeroW setup but can be used for other Pis (Set up wifi on a zeroW or zero using network adapter, or 3B plus or 3B wifi to a network fot example) 
+
+##Note, please change the values within this, as well note that its set to boot to console logged in (if you need Desktop, click it the dropdown for Boot option and click Desktop or Desktop Logged in (whichever you prefer)## Based off pictures above.
+
+**Last and final step!!!!**
+
+**Once pibakery is done put sd card in pi and turn on pi.
+Let it boot for 2 to 5 minutes and sit back  and enjoy your coffee!**
+
+[Feelsgoodman]: https://cdn.discordapp.com/attachments/323186380379389952/587575423622184980/Screenshot_20190610-053432.jpg
+
+
+**If you used akin recipe to above (On first boot, Wifi stuff, enable vnc, reboot) the pi should reboot  after it does  what you  asked pibakery to do for you**
+**if its been long enough  (2 to 5 mins) and it doesnt reboot unplug it and plug it back in**
+
