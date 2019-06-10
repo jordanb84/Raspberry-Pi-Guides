@@ -16,8 +16,8 @@
 title: Raspberry Pi Guides
 description: >- # this means to ignore newlines until "baseurl:"
   Guides for the Raspberry Pi
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Raspberry-Pi-Guides" # the subpath of your site, e.g. /blog
+url: "https://jordanb84.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
