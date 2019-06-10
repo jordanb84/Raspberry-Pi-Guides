@@ -20,7 +20,6 @@ Step  2!:
 
 Step 3!: 
 ![alt text][Exampleusagepizero]
-
 [Exampleusagepizero]: https://cdn.discordapp.com/attachments/358116916012908544/533977944331124737/Screen_Shot_2019-01-13_at_3.58.37_AM.png
 
 **These 'recipes' you make (drag nd drop blocks) can be exported so you can use it again and again for multiple sd cards or if you close tool**
@@ -36,8 +35,8 @@ This recipe Above is for an example PizeroW setup but can be used for other Pis 
 **Once pibakery is done put sd card in pi and turn on pi.
 Let it boot for 2 to 5 minutes and sit back  and enjoy your coffee!**
 
-[Feelsgoodman]: https://cdn.discordapp.com/attachments/323186380379389952/587575423622184980/Screenshot_20190610-053432.jpg
-
+![alt text][Feelsgoodman]
+[Feelsgoodman]: https://www.pngkey.com/png/full/154-1546056_213kib-1600x1564-feels-good-feels-good-meme-png.png
 
 **If you used akin recipe to above (On first boot, Wifi stuff, enable vnc, reboot) the pi should reboot  after it does  what you  asked pibakery to do for you**
 **if its been long enough  (2 to 5 mins) and it doesnt reboot unplug it and plug it back in**
