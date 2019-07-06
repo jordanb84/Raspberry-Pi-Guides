@@ -74,6 +74,7 @@ Go to the Settings tab (on the left) then the DNS tab in the top middle.
 1) Change the Interface listening behavior to listen on all interfaces 
 2) For a little extra security (this is optional) you can scroll down to the Advanced DNS settings and check the "Use DNSSEC". It helps protect DNS requests from leaking out. 
 
+*Make sure you scroll to the bottom and save your settings*
 
 # Conclusion
 
